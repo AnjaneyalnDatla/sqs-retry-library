@@ -1,0 +1,18 @@
+{
+  "name": "sqs-retry-library",
+  "version": "1.0.0",
+  "description": "A Library to generate aws service to enable retry",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": {
+    "name": "Anjaneya Datla",
+    "email": "anjaneyalndatla@gmail.com"
+  },
+  "repository": {
+    "url": "https://github.com/AnjaneyalnDatla/sqs-retry-library.git"
+  },
+  "license": "ISC"
+}
